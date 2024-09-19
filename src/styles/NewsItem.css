@@ -1,0 +1,18 @@
+.news-item {
+  border: 1px solid #ccc !important;
+  padding: 20px;
+  margin-bottom: 10px;
+  position: absolute;
+}
+
+.news-item h2 {
+  font-size: 24px;
+}
+
+.news-item p {
+  color: #333;
+}
+
+.news-item:hover {
+  background-color: #f9f9f9;
+}

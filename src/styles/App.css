@@ -1,0 +1,12 @@
+.app {
+  font-family: Arial, sans-serif;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+}
+
+.news-list {
+  margin-top: 20px;
+}
